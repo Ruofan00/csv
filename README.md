@@ -1,2 +1,2 @@
 # quant
-quant tutorial
+quant tutorial <3
